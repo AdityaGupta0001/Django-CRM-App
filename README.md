@@ -1,1 +1,1 @@
-# Django-Mass-Mailer
+# Django-CRM-App
